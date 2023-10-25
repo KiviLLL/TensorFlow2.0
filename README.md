@@ -8,7 +8,7 @@
 • 請準備一個可以使用google colab的帳號   
 • 請下載附上的：tensorflow2.0.ipynb  
 # 實作方法  
-• 將使用Keras進行以下操作：  
+• 將使用Python在google colab進行以下操作：  
 • 1.登入Google  
 • 2.打開colab，並打開tensorflow2.0.ipynb並全部執行  
 ![img](https://github.com/KiviLLL/TensorFlow2.0/blob/main/img1.png)  
