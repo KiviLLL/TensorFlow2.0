@@ -16,8 +16,7 @@
 ![img](https://github.com/KiviLLL/TensorFlow2.0/blob/main/img2.png)  
 • 4.建構對影像進行分類的神經網路機器學習模型。  
 ![img](https://github.com/KiviLLL/TensorFlow2.0/blob/main/img3.png)  
-• 5.訓練此神經網路。  
-• 6.評估模型的準確率。  
+• 5.訓練並評估模型的準確率。  
 ![img](https://github.com/KiviLLL/TensorFlow2.0/blob/main/img4.png)  
 # 參考資料
 https://github.com/tensorflow/docs-l10n/blob/master/site/zh-cn/tutorials/quickstart/beginner.ipynb
