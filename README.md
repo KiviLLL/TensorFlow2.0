@@ -13,3 +13,5 @@
 • 2.建構對影像進行分類的神經網路機器學習模型。  
 • 3.訓練此神經網路。  
 • 4.評估模型的準確率。  
+# 參考資料
+https://github.com/tensorflow/docs-l10n/blob/master/site/zh-cn/tutorials/quickstart/beginner.ipynb
