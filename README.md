@@ -18,7 +18,7 @@
 ![img](https://github.com/KiviLLL/TensorFlow2.0/blob/main/img2.png)  
 • 4.建構對影像進行分類的神經網路機器學習模型。  
     透過堆疊層來建構tf.keras.Sequential模型。
-    這個未經訓練的模型給出的機率接近隨機（每個類別為1/10），因此初始損失應該接近-tf.math.log(1/10) ~= 2.3。
+    這個未經訓練的模型給出的機率接近隨機（每個類別為1/10），因此初始損失應該接近-tf.math.log(1/10) ~= 2.3。     
 ![img](https://github.com/KiviLLL/TensorFlow2.0/blob/main/img3.png)  
 • 5.訓練並評估模型的準確率。  
     使用Model.fit方法調整您的模型參數並最小化損失   準確度將近達到98% 
