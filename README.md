@@ -20,6 +20,7 @@
     透過堆疊層來建構tf.keras.Sequential模型。
     針對每個樣本，模型都會傳回一個包含logits或log-odds分數的向量，每個類別一個。     
     接下來利用tf.nn.softmax函數將這些logits 轉換為每個類別的機率     
+    使用losses.SparseCategoricalCrossentropy為訓練定義損失函數，它會接受logits 向量和True索引，並為每個樣本傳回一個標量損失。     
     因為尚未經訓練的模型給出的機率接近隨機（每個類別為1/10），因此初始損失應該接近-tf.math.log(1/10) ~= 2.3。     
 ![img](https://github.com/KiviLLL/TensorFlow2.0/blob/main/img3.png)  
 • 5.訓練並評估模型的準確率:      
