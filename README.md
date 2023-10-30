@@ -28,5 +28,6 @@
     使用Model.fit方法調整您的模型參數並最小化損失   準確度將近達到98% 
     想讓模型傳回機率，可以封裝經過訓練的模型，並將softmax 附加到該模型    
 ![img](https://github.com/KiviLLL/TensorFlow2.0/blob/main/img4.png)  
+     最後恭喜！成功利用Keras API 借助預建資料集訓練了一個機器學習模型。     
 # 參考資料
 https://github.com/tensorflow/docs-l10n/blob/master/site/zh-cn/tutorials/quickstart/beginner.ipynb
