@@ -5,7 +5,7 @@
 •準備資源  
 •實作方法  
 # 準備資源
-• 請準備一個可以使用google colab的帳號   
+• 請準備一個可以使用google colab的帳號    
 • 請下載附上的：tensorflow2.0.ipynb  
 # 實作方法  
 • 將使用Python在google colab進行以下操作：  
